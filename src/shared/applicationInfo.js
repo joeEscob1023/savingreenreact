@@ -2,7 +2,7 @@ export const APPINFO = [
   {
     id: 0,
     title: "How it Works",
-    image: "assets/images/saving-money.jpg",
+    image: "/assets/images/saving-money.jpg",
     featured: true,
     description:
       "Add up your monthly income, check your spending and your saving. Never miss another penny!"
